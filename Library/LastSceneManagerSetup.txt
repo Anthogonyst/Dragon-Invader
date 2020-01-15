@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Dragon Invader/Scenes/DA da ddad a da da da.unity
+  isLoaded: 1
+  isActive: 1
